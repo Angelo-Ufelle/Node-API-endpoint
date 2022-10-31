@@ -1,0 +1,24 @@
+{
+  "name": "hng",
+  "version": "1.0.0",
+  "description": "backend task one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelo-Ufelle/Node-API-endpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelo-Ufelle/Node-API-endpoint/issues"
+  },
+  "homepage": "https://github.com/Angelo-Ufelle/Node-API-endpoint#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
